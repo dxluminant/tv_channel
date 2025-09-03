@@ -37,7 +37,10 @@ https://kv-h-ph.rdtcdn.com/hls/videos/202505/22/469020825/720P_4000K_469020825.m
 https://kv-h-ph.rdtcdn.com/hls/videos/202503/12/465649675/720P_4000K_465649675.mp4/master.m3u8?hdnea=st=1756878963~exp=1756882563~hdl=-1~hmac=6430dc2470fb7f30dc9facfb2f6aca301000dd71
 
 #EXTINF:-2 tvg-logo="" group-title="Corn",Corn13
-https://ev-h-ph.rdtcdn.com/hls/videos/202504/01/466644785/720P_4000K_466644785.mp4/master.m3u8
+https://ev-h-ph.rdtcdn.com/hls/videos/202504/01/466644785/720P_4000K_466644785.mp4/master.m3u8?validfrom=1756875422&validto=1756882622&hdl=-1&hash=Gsu%2BwHZ7H50YyW3f8yFW29Wik1k%3D
 
 #EXTINF:-2 tvg-logo="" group-title="Corn",Corn14
 https://iv-h-ph.rdtcdn.com/RXXT8gghzeSH8MWauzVH2M95WX8=,1756882678/hls/videos/202502/22/464874845/720P_4000K_464874845.mp4/master.m3u8
+
+#EXTINF:-2 tvg-logo="" group-title="Corn",Live Cam
+https://edge9-sin.live.mmcdn.com/live-hls/amlst:emiilycampbell-sd-628c953e33cb5ebd53c2854b2fe1f6bdfef5deb94b56c5f75754d15753341cc3_trns_h264/playlist.m3u8
