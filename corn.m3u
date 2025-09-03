@@ -42,5 +42,17 @@ https://ev-h-ph.rdtcdn.com/hls/videos/202504/01/466644785/720P_4000K_466644785.m
 #EXTINF:-2 tvg-logo="" group-title="Corn",Corn14
 https://iv-h-ph.rdtcdn.com/RXXT8gghzeSH8MWauzVH2M95WX8=,1756882678/hls/videos/202502/22/464874845/720P_4000K_464874845.mp4/master.m3u8
 
-#EXTINF:-2 tvg-logo="" group-title="Corn",Live Cam
+#EXTINF:-2 tvg-logo="" group-title="Live Cam",Corn15
 https://edge9-sin.live.mmcdn.com/live-hls/amlst:emiilycampbell-sd-628c953e33cb5ebd53c2854b2fe1f6bdfef5deb94b56c5f75754d15753341cc3_trns_h264/playlist.m3u8
+
+#EXTINF:-2 tvg-logo="" group-title="Live Cam",Corn16
+https://edge10-sin.live.mmcdn.com/live-hls/amlst:colbymcroberts-sd-ecf7bd67d35f85f69deeea94cda82562d82c561159ccd055a3f852a96050df94_trns_h264/playlist.m3u8
+
+#EXTINF:-2 tvg-logo="" group-title="Live Cam",Corn17
+https://edge7-sin.live.mmcdn.com/live-hls/amlst:diana_smiley-sd-ada48e202fde98cfe9a0e1d6891adffb846c7b628add39544af9ef71a11084b8_trns_h264/playlist.m3u8
+
+#EXTINF:-2 tvg-logo="" group-title="Live Cam",Corn18
+https://edge22-sin.live.mmcdn.com/live-hls/amlst:ginacali-sd-f6ce436e04ff03c909edeaff4ce51c54774207a85d77a0e7018d4c837db738c4_trns_h264/playlist.m3u8
+
+#EXTINF:-2 tvg-logo="" group-title="Live Cam",Corn19
+https://edge28-sin.live.mmcdn.com/live-hls/amlst:taanni_bc-sd-84836f2fc48c1ceb03f6567b52c759d218cd57591212d5914e597a67b6234fea_trns_h264/playlist.m3u8
