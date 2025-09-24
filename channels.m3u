@@ -94,3 +94,113 @@ https://tvsen4.aynaott.com/durontotv/index.m3u8
 #EXTINF:-1 tvg-id="" tvg-name="8XM" group-title="Music", 8XM
 https://vodzong.mjunoon.tv:8087/streamtest/8XM-131/playlist.m3u8
 
+#EXTINF:-1 tvg-id="" tvg-name="Global TV" group-title="Bangla", Global TV
+https://app24.jagobd.com.bd/.../Global-tv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Amar Bangla TV" group-title="Bangla", Amar Bangla TV
+https://app24.jagobd.com.bd/.../amarbanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Amar Bangla TV (Alt)" group-title="Bangla", Amar Bangla TV (Alt)
+https://app24.jagobd.com.bd/.../amarbanglatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV" group-title="Bangla", Ananda TV
+https://app24.jagobd.com.bd/.../anandatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Ananda TV (Alt)" group-title="Bangla", Ananda TV (Alt)
+https://app24.jagobd.com.bd/.../anandatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian Test" group-title="Test", Asian Test
+https://app24.jagobd.com.bd/.../asian-test-sample-ok-d.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Asian Test (Alt)" group-title="Test", Asian Test (Alt)
+https://app24.jagobd.com.bd/.../asian-test-sample-ok-d.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Biswabangal TV" group-title="Bangla", Biswabangal TV
+https://app24.jagobd.com.bd/.../biswabanglatv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Biswabangal TV (Alt)" group-title="Bangla", Biswabangal TV (Alt)
+https://app24.jagobd.com.bd/.../biswabanglatv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 25 USA" group-title="International", Channel 25 USA
+https://app24.jagobd.com.bd/.../channel25usa.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channel 25 USA (Alt)" group-title="International", Channel 25 USA (Alt)
+https://app24.jagobd.com.bd/.../channel25usa.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channels" group-title="Bangla", Channels
+https://app24.jagobd.com.bd/.../channels.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Channels (Alt)" group-title="Bangla", Channels (Alt)
+https://app24.jagobd.com.bd/.../channels.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DBC News" group-title="News", DBC News
+https://app24.jagobd.com.bd/.../dbcnews.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="DBC News (Alt)" group-title="News", DBC News (Alt)
+https://app24.jagobd.com.bd/.../dbcnews.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Global TV (Playlist)" group-title="Bangla", Global TV (Playlist)
+https://app24.jagobd.com.bd/.../globaltv.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Global TV (Alt)" group-title="Bangla", Global TV (Alt)
+https://app24.jagobd.com.bd/.../globaltv.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel Bangla" group-title="Islamic", Islam Channel Bangla
+https://app24.jagobd.com.bd/.../islamchbangla.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Islam Channel Bangla (Alt)" group-title="Islamic", Islam Channel Bangla (Alt)
+https://app24.jagobd.com.bd/.../islamchbangla.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live" group-title="Islamic", Makkah Live
+https://app24.jagobd.com.bd/.../makkah.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Makkah Live (Alt)" group-title="Islamic", Makkah Live (Alt)
+https://app24.jagobd.com.bd/.../makkah.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla Link 2" group-title="Movies", Movie Bangla Link 2
+https://app24.jagobd.com.bd/.../moviebanglalink2.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Movie Bangla Link 2 (Alt)" group-title="Movies", Movie Bangla Link 2 (Alt)
+https://app24.jagobd.com.bd/.../moviebanglalink2.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Music Bangla" group-title="Music", Music Bangla
+https://app24.jagobd.com.bd/.../musicbangla44.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Music Bangla (Alt)" group-title="Music", Music Bangla (Alt)
+https://app24.jagobd.com.bd/.../musicbangla44.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="News24 Local" group-title="News", News24 Local
+https://app24.jagobd.com.bd/.../news24local.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="NRB EU" group-title="International", NRB EU
+https://app24.jagobd.com.bd/.../nrb-eu.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zoom In" group-title="Entertainment", Zoom In
+https://app24.jagobd.com.bd/.../zoomin.stream/playlist.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Zoom In (Alt)" group-title="Entertainment", Zoom In (Alt)
+https://app24.jagobd.com.bd/.../zoomin.stream/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Bangla TV" group-title="Bangla", Rongo Bangla TV
+https://bozztv.com/rongo/rongo-BanglaTV/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Bijoy TV" group-title="Bangla", Rongo Bijoy TV
+https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Boishakhi TV" group-title="Bangla", Rongo Boishakhi TV
+https://bozztv.com/rongo/rongo-BoishakhiTV/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Ekushey TV" group-title="Bangla", Rongo Ekushey TV
+https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Maasranga" group-title="Bangla", Rongo Maasranga
+https://bozztv.com/rongo/rongo-Maasranga/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Mohona TV" group-title="Bangla", Rongo Mohona TV
+https://bozztv.com/rongo/rongo-MohonaTV/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo Nexus TV" group-title="International", Rongo Nexus TV
+https://bozztv.com/rongo/rongo-NEXUSTVENC1/tracks-v2a1/mono.m3u8
+
+#EXTINF:-1 tvg-id="" tvg-name="Rongo RTV" group-title="Bangla", Rongo RTV
+https://bozztv.com/rongo/rongo-RTV/tracks-v2a1/mono.m3u8
