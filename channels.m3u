@@ -1,11 +1,29 @@
 #EXTINF:-1 tvg-logo="https://www.app.com.pk/wp-content/uploads/2025/07/Tamasha-kashmir-english-1024x576-1.webp", খেলা দেখুন
 https://bcovlive-a.akamaihd.net/f5fec2a70fa64f86a1bc3ee42e94e355/ap-southeast-2/5833133821001/playlist.m3u8
 
+#EXTINF:-1, Star Jalsha
+https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
+
+#EXTINF:-1, Colours Bangla
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8?uid=3036658487
+
+#EXTINF:-1, Jalsha Movies
+https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
+
+#EXTINF:-1, Willow Cricket
+https://fl7.moveonjoy.com/WILLOW_CRICKET/tracks-v1a1/mono.ts.m3u8
+
+#EXTINF:-1, Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
 #EXTINF:-1, Cloudfront 209587
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
 #EXTINF:-1, Cloudfront 209617
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
+#EXTINF:-1, Colors Bangla Chinema
+https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/stream_0.m3u8?uid=3925977078
 
 #EXTINF:-1, Cloudfront 209593
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
