@@ -7,6 +7,27 @@ https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 #EXTINF:-1, Asia Cup 3
 http://ee0c5e74.akadatel.com/iptv/QRDWGTBMDHSDGK/7343/index.m3u8
 
+#EXTINF:-1, Willow Cricket
+https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1758955614&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e8c13a391e690b2ce83dad4cf9585697
+
+#EXTINF:-1, Star Sports Select HD2
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
+
+#EXTINF:-1, Star Sports 1
+https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
+
+#EXTINF:-1, Star Sports Select HD1
+https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
+
+#EXTINF:-1, Sport
+https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
+
+#EXTINF:-1, Bengali Beats
+https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
+
+#EXTINF:-1, Waaz
+https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
+
 #EXTINF:-1, Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
 
@@ -16,26 +37,14 @@ https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8?uid=
 #EXTINF:-1, Jalsha Movies
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-#EXTINF:-1, Willow Cricket
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1758955614&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e8c13a391e690b2ce83dad4cf9585697
-
-#EXTINF:-1, Sport
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-
-#EXTINF:-1, Cloudfront 209587
-https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
-
-#EXTINF:-1, Cloudfront 209617
-https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
-
 #EXTINF:-1, Colors Bangla Chinema
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/stream_0.m3u8?uid=3925977078
 
-#EXTINF:-1, Cloudfront 209593
+#EXTINF:-1, Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
-#EXTINF:-1, Cloudfront 209618
-https://cloudfrontnet.vercel.app/tplay/playout/209618/master.m3u8
+#EXTINF:-1, Disney Jr
+https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1758956086&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=bf845ea69b2bf8d76b20f5a9112b7600
 
 #EXTINF:-1, EkusheyTV
 https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
@@ -43,38 +52,26 @@ https://bozztv.com/rongo/rongo-EkusheyTV/tracks-v2a1/mono.m3u8
 #EXTINF:-1, DurontoTV
 https://tvsen4.aynaott.com/durontotv/index.m3u8
 
-#EXTINF:-1, Willow Cricket
-https://fl7.moveonjoy.com/WILLOW_CRICKET/index.m3u8
+#EXTINF:-1, G-Series
+https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
-#EXTINF:-1, Star Sports Select HD2
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
-
-#EXTINF:-1, RTA3
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3u8
-
-#EXTINF:-1, Live Bangla
+#EXTINF:-1, Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1, Live20 Starsports Chunks
-https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
-
-#EXTINF:-1, Star Sports Select HD1
-https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-
-#EXTINF:-1, BPK-TV 1723
+#EXTINF:-1, Channel-I
 https://owrcovcrpy.gpcdn.net/bpk-tv/1723/output/index.m3u8
 
-#EXTINF:-1, NEXUSTVENC1
+#EXTINF:-1, NEXUS TV
 https://bozztv.com/rongo/rongo-NEXUSTVENC1/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1, MusicBangla44
+#EXTINF:-1, Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8
 
 #EXTINF:-1, MohonaTV
 https://bozztv.com/rongo/rongo-MohonaTV/tracks-v2a1/mono.m3u8
 
-#EXTINF:-1, BPK-TV 1715
-https://owrcovcrpy.gpcdn.net/bpk-tv/1715/output/index.m3u8
+#EXTINF:-1, Discovery Bangla
+https://tvsen6.aynascope.net/discovery_hd_bangla/index.m3u8?e=1758956639&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e447f45e5f66b03cca67db83da87ebef
 
 #EXTINF:-1, BijoyTV
 https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
@@ -82,23 +79,23 @@ https://bozztv.com/rongo/rongo-BijoyTV/tracks-v1a1/mono.m3u8
 #EXTINF:-1, Boishakhi TV
 https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 
-#EXTINF:-1, IslamchBangla
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI26/islamchbangla.stream/playlist.m3u8
+#EXTINF:-1, PeaceTV
+https://tvsen6.aynascope.net/PeaceTVUrduHD/index.m3u8?e=1758956887&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=61283f904c3e4990e8f53a4072654dd2
 
-#EXTINF:-1, Makkah
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI26/makkah.stream/playlist.m3u8
+#EXTINF:-1, Sony Entertainment
+https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1758957053&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e217f78652c4ef0b354cb40b845ea651
 
-#EXTINF:-1, Channels
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI26/channels.stream/playlist.m3u8
+#EXTINF:-1, Goldmines
+https://tvsen6.aynascope.net/Goldmines/index.m3u8?e=1758957134&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=ea0e84803aa79f474532d0438b247e70
 
-#EXTINF:-1, BPK-TV 1704
+#EXTINF:-1, Independent News
 https://owrcovcrpy.gpcdn.net/bpk-tv/1704/output/index.m3u8
 
-#EXTINF:-1, BiswabanglaTV
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI26/biswabanglatv.stream/playlist.m3u8
+#EXTINF:-1, MachrangaTV
+https://tvsen5.aynascope.net/maasrangatv/index.m3u8?e=1758957273&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=93550c7d93862a8e7a3da299e93aee81
 
-#EXTINF:-1, Channel25USA
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI26/channel25usa.stream/playlist.m3u8
+#EXTINF:-1, Time TV USA
+https://tvsen7.aynascope.net/timetv/index.m3u8?e=1758957353&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=1e94aae22df3bc1cb2a1e9af6d039cd8
 
-#EXTINF:-1, DBC News
-https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI26/dbcnews.stream/playlist.m3u8
+#EXTINF:-1, SATV
+https://tvsen6.aynascope.net/satv/index.m3u8?e=1758957453&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=c33e2eb0a9e797ce25856bb0d1bc3b7d
