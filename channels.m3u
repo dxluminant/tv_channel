@@ -55,6 +55,15 @@ https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF9
 #EXTINF:-1, Bengali Beats
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
+#EXTINF:-1, Sangeet Bangla
+https://cdn-4.pishow.tv/live/1143/master.m3u8
+
+#EXTINF:-1, Punjabi Hits
+https://cdn-4.pishow.tv/live/1504/master.m3u8
+
+#EXTINF:-1, Music India
+https://cdn-2.pishow.tv/live/226/master.m3u8
+
 #EXTINF:-1, Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
@@ -93,6 +102,12 @@ https://tvsen6.aynascope.net/discovery_hd_bangla/index.m3u8?e=1758956639&u=7a511
 
 #EXTINF:-1, Disney Jr
 https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1758956086&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=bf845ea69b2bf8d76b20f5a9112b7600
+
+#EXTINF:-1, Nick
+https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
+
+#EXTINF:-1, Doraemon
+https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
 #EXTINF:-1, Willow Cricket
 https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1758955614&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e8c13a391e690b2ce83dad4cf9585697
