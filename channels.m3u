@@ -1,30 +1,3 @@
-#EXTINF:-1 group-title="Movies", star yay
-http://31.42.184.175:8080/hls/717fbe0a6932ce56e430980fd6a282b8/26187_682.ts
-
-#EXTINF:-1 group-title="Movies", sony max
-http://51.159.212.144:8080/hls/e103ac898a61f455918c6b15e514e1b8/66179_2358.ts
-
-#EXTINF:-1 group-title="Movies", sony max
-http://147.93.153.98/OPPLEX/play.php?id=66179
-
-#EXTINF:-1 group-title="Movies", star gold
-http://51.159.210.96:8080/hls/608c0f8c146e8c40cb914bd731489ba6/66177_1945.ts
-
-#EXTINF:-1 group-title="Movies", starplus
-http://51.159.210.96:8080/hls/61895ca99b2bec06b29b390bc338c51b/221252_188.ts
-
-#EXTINF:-1 group-title="Movies", ctsport
-http://88.212.15.19/live/test_ctsport_25p/1759168267.ts
-
-#EXTINF:-1 group-title="Movies", star sports
-http://192.142.30.134:8080/hls/cfab1bf6961bb2452e406162130ced8a/167577_1201.ts
-
-#EXTINF:-1 group-title="Movies", star sports 3
-http://147.93.153.98/OPPLEX/play.php?id=167577
-
-#EXTINF:-1 group-title="Movies", Movie Bangla
-http://alvetv.com/moviebanglatv/8080/index.m3u8
-
 #EXTINF:-1 group-title="Sports", Pak Sports 1
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 
