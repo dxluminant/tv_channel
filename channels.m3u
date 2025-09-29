@@ -1,3 +1,6 @@
+#EXTINF:-1 group-title="Movies", star yay
+http://31.42.184.175:8080/hls/717fbe0a6932ce56e430980fd6a282b8/26187_682.ts
+
 #EXTINF:-1 group-title="Movies", sony max
 http://51.159.212.144:8080/hls/e103ac898a61f455918c6b15e514e1b8/66179_2358.ts
 
