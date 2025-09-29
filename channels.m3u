@@ -1,13 +1,13 @@
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 1
+#EXTINF:-1 group-title="Sports", Pak Sports 1
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 2
+#EXTINF:-1 group-title="Sports", Pak Sports 2
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 3
+#EXTINF:-1 group-title="Sports", Pak Sports 3
 https://tgn.bozztv.com/eshgtv-dvrfl05/gin-lemar/index.m3u8
 
-#EXTINF:-1 group-title="Asia Cup", Asia Cup 4
+#EXTINF:-1 group-title="Sports", Willow Cricket
 https://fl25.moveonjoy.com/WILLOW_CRICKET/index.m3u8
 
 #EXTINF:-1 group-title="News", EkusheyTV
@@ -46,88 +46,75 @@ https://boishakhi.sonarbanglatv.com/boishakhi/boishakhitv/index.m3u8
 #EXTINF:-1 group-title="Movies", G-Series
 https://vods2.aynascope.net/gseriesDrama/index.m3u8
 
-#EXTINF:-1, Waaz
+#EXTINF:-1 group-title="Islamic", Waaz
 https://cloudfrontnet.vercel.app/tplay/playout/209617/master.m3u8
 
-#EXTINF:-1, Music Bangla
+#EXTINF:-1 group-title="Music", Music Bangla
 https://app24.jagobd.com.bd/c3VydmVyX8RpbEU9Mi8xNy8yMFDDEHGcfRgzQ6NTAgdEoaeFzbF92YWxIZTO0U0ezN1IzMyfvcEdsEfeDeKiNkVN3PTOmdFsaWRtaW51aiPhnPTI2/musicbangla44.stream/playlist.m3u8
 
-#EXTINF:-1, Bengali Beats
+#EXTINF:-1 group-title="Music", Bengali Beats
 https://cloudfrontnet.vercel.app/tplay/playout/209587/master.m3u8
 
-#EXTINF:-1, Sangeet Bangla
+#EXTINF:-1 group-title="Music", Sangeet Bangla
 https://cdn-4.pishow.tv/live/1143/master.m3u8
 
-#EXTINF:-1, Punjabi Hits
+#EXTINF:-1 group-title="Music", Punjabi Hits
 https://cdn-4.pishow.tv/live/1504/master.m3u8
 
-#EXTINF:-1, Music India
+#EXTINF:-1 group-title="Music", Music India
 https://cdn-2.pishow.tv/live/226/master.m3u8
 
-#EXTINF:-1, Enter10Bangla
+#EXTINF:-1 group-title="Entertainment", Enter10Bangla
 https://live-bangla.akamaized.net/liveabr/playlist.m3u8
 
-#EXTINF:-1, Star Jalsha
+#EXTINF:-1 group-title="Entertainment", Star Jalsha
 https://live.dinesh29.com.np/stream/jiotvplus/starjalshahd/stream_0.m3u8?uid=
 
-#EXTINF:-1, Colours Bangla
+#EXTINF:-1 group-title="Entertainment", Colours Bangla
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbengalihd/stream_0.m3u8?uid=3036658487
 
-#EXTINF:-1, Jalsha Movies
+#EXTINF:-1 group-title="Entertainment", Jalsha Movies
 https://live.dinesh29.com.np/stream/jiotvplus/jalshamovieshd/master.m3u8
 
-#EXTINF:-1, Colors Bangla Chinema
+#EXTINF:-1 group-title="Entertainment", Colors Bangla Chinema
 https://live.dinesh29.com.np/stream/jiotvplus/colorsbanglacinema/stream_0.m3u8?uid=3925977078
 
-#EXTINF:-1 group-title="Movies", Hindi Movies
+#EXTINF:-1 group-title="Entertainment", Hindi Movies
 https://cloudfrontnet.vercel.app/tplay/playout/209593/master.m3u8
 
-#EXTINF:-1, Sony Entertainment
+#EXTINF:-1 group-title="Entertainment", Sony Entertainment
 https://tvsen5.aynascope.net/Wfn4bVp3dLgA/index.m3u8?e=1758957053&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e217f78652c4ef0b354cb40b845ea651
 
-#EXTINF:-1, Sony AAT
+#EXTINF:-1 group-title="Entertainment", Sony AAT
 https://cloudfrontnet.vercel.app/tplay/playout/209611/master.m3u8
 
-#EXTINF:-1, Sony Yay
+#EXTINF:-1 group-title="Cartoon", Sony Yay
 https://yflix.top/fuck/live.php?id=sonyyay&e=.m3u8
 
-#EXTINF:-1 group-title="Movies", Goldmines
+#EXTINF:-1 group-title="Entertainment", Goldmines
 https://cdn-2.pishow.tv/live/1459/master.m3u8
 
-#EXTINF:-1 group-title="Movies", Bhojpuri Chinema
+#EXTINF:-1 group-title="Entertainment", Bhojpuri Chinema
 https://cdn-4.pishow.tv/live/1033/master.m3u8
 
-#EXTINF:-1, Discovery Bangla
+#EXTINF:-1 group-title="Entertainment", Discovery Bangla
 https://tvsen6.aynascope.net/discovery_hd_bangla/index.m3u8?e=1758956639&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e447f45e5f66b03cca67db83da87ebef
 
-#EXTINF:-1, Disney Jr
+#EXTINF:-1 group-title="Cartoon", Disney Jr
 https://tvsen7.aynascope.net/disneyjr/index.m3u8?e=1758956086&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=bf845ea69b2bf8d76b20f5a9112b7600
 
-#EXTINF:-1, Nick
+#EXTINF:-1 group-title="Cartoon", Nick
 https://cloudfrontnet.vercel.app/tplay/playout/209622/master.m3u8
 
-#EXTINF:-1, Doraemon
+#EXTINF:-1 group-title="Cartoon", Doraemon
 https://cloudfrontnet.vercel.app/tplay/playout/209902/master.m3u8
 
-#EXTINF:-1, Willow Cricket
-https://tvsen5.aynascope.net/willowhd/index.m3u8?e=1758955614&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=e8c13a391e690b2ce83dad4cf9585697
-
-#EXTINF:-1, Star Sports Select HD2
+#EXTINF:-1 group-title="Sports", Star Sports Select HD2
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd2/master.m3u8
 
-#EXTINF:-1, Star Sports 1
+#EXTINF:-1 group-title="Sports", Star Sports 1
 https://live20.bozztv.com/akamaissh101/ssh101/starsports/chunks.m3u8
 
-#EXTINF:-1, Star Sports Select HD1
+#EXTINF:-1 group-title="Sports", Star Sports Select HD1
 https://live.dinesh29.com.np/stream/jiotvplus/starsportsselecthd1/master.m3u8
-
-#EXTINF:-1, Sport
-https://rtatv.akamaized.net/Content/HLS/Live/channel(RTA3)/variant.m3ebef
-
-#EXTINF:-1, PeaceTV
-https://tvsen6.aynascope.net/PeaceTVUrduHD/index.m3u8?e=1758956887&u=7a511720-17fc-44bc-a9a7-9222de71898c&token=61283f904c3e4990e8f53a4072654dd2
-
-#EXTINF:-1, Sony Max
-https://yflix.top/sliv1/player.php?id=1000009249
-
 
