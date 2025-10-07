@@ -1,5 +1,8 @@
 #EXTM3U
 
+#EXTINF:-2 group-title="Movies", Awara
+http://upos-bstar1-mirrorakam.akamaized.net/iupxcodeboss/v5/vs/n250411ad2wkyrg472lyi32tlss7vsv5-1-111220110000.m4s?e=ig8euxZM2rNcNbdlhoNvNC8BqJIzNbfqXBvEuENvNC8aNEVEtEvE9IMvXBvE2ENvNCImNEVEIj0Y2J_aug859r1qXg8xNEVE5XREto8GuFGv2U7SuxI72X6fTr859IB_&uipk=5&nbs=1&deadline=1759862213&gen=playurlv2&os=akam&oi=1740526465&trid=fb732d6d831548d79903ba9cebc4d6e9i&mid=0&platform=android&upsig=ac77d8536b16cdf90aae7a5b9349c6ee&uparams=e,uipk,nbs,deadline,gen,os,oi,trid,mid,platform&hdnts=exp=1759862213~hmac=b60ec3509c00ddc11179a09296ab9ee7f47f83220393abca7891f015441684aa&bvc=vod&nettype=0&orderid=0,2&logo=00000000&f=i_0_0
+
 #EXTINF:-2 group-title="Movies",Sita Ramam
 https://6rga.a0p3.com/vod/1/2025/04/23/1104d0f6afb5/1309776470.mp4?wsSecret=36e87feee509cade38145709ee518775&wsTime=68e53a27
 
